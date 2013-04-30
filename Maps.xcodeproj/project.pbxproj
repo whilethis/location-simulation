@@ -23,6 +23,8 @@
 		CA70695C172A0BD900318AF9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA706937172A0BD900318AF9 /* Foundation.framework */; };
 		CA706964172A0BD900318AF9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CA706962172A0BD900318AF9 /* InfoPlist.strings */; };
 		CA706967172A0BD900318AF9 /* MapsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CA706966172A0BD900318AF9 /* MapsTests.m */; };
+		CA706971172A0BFF00318AF9 /* Testing.gpx in Resources */ = {isa = PBXBuildFile; fileRef = CA706970172A0BFF00318AF9 /* Testing.gpx */; };
+		CA706973172A0C4E00318AF9 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA706972172A0C4E00318AF9 /* MapKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +60,8 @@
 		CA706963172A0BD900318AF9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CA706965172A0BD900318AF9 /* MapsTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MapsTests.h; sourceTree = "<group>"; };
 		CA706966172A0BD900318AF9 /* MapsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MapsTests.m; sourceTree = "<group>"; };
+		CA706970172A0BFF00318AF9 /* Testing.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Testing.gpx; sourceTree = "<group>"; };
+		CA706972172A0C4E00318AF9 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +69,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA706973172A0C4E00318AF9 /* MapKit.framework in Frameworks */,
 				CA706936172A0BD900318AF9 /* UIKit.framework in Frameworks */,
 				CA706938172A0BD900318AF9 /* Foundation.framework in Frameworks */,
 				CA70693A172A0BD900318AF9 /* CoreGraphics.framework in Frameworks */,
@@ -87,6 +92,8 @@
 		CA706929172A0BD900318AF9 = {
 			isa = PBXGroup;
 			children = (
+				CA706972172A0C4E00318AF9 /* MapKit.framework */,
+				CA706970172A0BFF00318AF9 /* Testing.gpx */,
 				CA70693B172A0BD900318AF9 /* Maps */,
 				CA70695F172A0BD900318AF9 /* MapsTests */,
 				CA706934172A0BD900318AF9 /* Frameworks */,
@@ -237,6 +244,7 @@
 				CA70694A172A0BD900318AF9 /* Default@2x.png in Resources */,
 				CA70694C172A0BD900318AF9 /* Default-568h@2x.png in Resources */,
 				CA706952172A0BD900318AF9 /* BPXLViewController.xib in Resources */,
+				CA706971172A0BFF00318AF9 /* Testing.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

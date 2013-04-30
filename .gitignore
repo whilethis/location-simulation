@@ -1,0 +1,8 @@
+*.mode?v3
+*.pbxuser
+build/
+.DS_Store
+xcuserdata/
+*~
+
+
