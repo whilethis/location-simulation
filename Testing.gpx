@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1"
+     creator="GMapToGPX 6.4j - http://www.elsewhere.org/GMapToGPX/"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+      <wpt lat="37.32298" lon="-122.03218">
+         <name>GRTP-001</name>
+         <cmt>Head west on Stevens Creek Blvd toward N De Anza Blvd</cmt>
+         <desc>Head west on Stevens Creek Blvd toward N De Anza Blvd</desc>
+      </wpt>
+      <wpt lat="37.32293" lon="-122.04888">
+         <name>GRTP-002</name>
+         <cmt>Slight right onto the California 85 N ramp</cmt>
+         <desc>Slight right onto the California 85 N ramp</desc>
+      </wpt>
+      <wpt lat="37.33017" lon="-122.05261">
+         <name>GRTP-003</name>
+         <cmt>Follow signs for CA-85 N/Mountain View and merge onto CA-85 N</cmt>
+         <desc>Follow signs for CA-85 N/Mountain View and merge onto CA-85 N</desc>
+      </wpt>
+      <wpt lat="37.38111" lon="-122.06787">
+         <name>GRTP-004</name>
+         <cmt>Take the exit onto CA-237 E toward Oakland/San Jose/US-101 S</cmt>
+         <desc>Take the exit onto CA-237 E toward Oakland/San Jose/US-101 S</desc>
+      </wpt>
+      <wpt lat="37.42266" lon="-121.92584">
+         <name>GRTP-005</name>
+         <cmt>Take the exit toward I-880 N</cmt>
+         <desc>Take the exit toward I-880 N</desc>
+      </wpt>
+      <wpt lat="37.42375" lon="-121.92168">
+         <name>GRTP-006</name>
+         <cmt>Keep left at the fork, follow signs for Interstate 880 N/Oakland</cmt>
+         <desc>Keep left at the fork, follow signs for Interstate 880 N/Oakland</desc>
+      </wpt>
+      <wpt lat="37.42394" lon="-121.92104">
+         <name>GRTP-007</name>
+         <cmt>Keep left at the fork and merge onto I-880 N</cmt>
+         <desc>Keep left at the fork and merge onto I-880 N</desc>
+      </wpt>
+      <wpt lat="37.47726" lon="-121.93293">
+         <name>GRTP-008</name>
+         <cmt>Exit onto Mission Blvd toward Sacramento/Interstate 680</cmt>
+         <desc>Exit onto Mission Blvd toward Sacramento/Interstate 680</desc>
+      </wpt>
+      <wpt lat="37.49592" lon="-121.92253">
+         <name>GRTP-009</name>
+         <cmt>Merge onto I-680 N via the ramp to Sacramento</cmt>
+         <desc>Merge onto I-680 N via the ramp to Sacramento</desc>
+      </wpt>
+      <wpt lat="38.0247" lon="-122.1097">
+         <name>GRTP-010</name>
+         <cmt>Keep left to continue on I-680</cmt>
+         <desc>Keep left to continue on I-680</desc>
+      </wpt>
+      <wpt lat="38.0294" lon="-122.11637">
+         <name>GRTP-011</name>
+         <cmt>Merge onto I-680 N</cmt>
+         <desc>Merge onto I-680 N</desc>
+      </wpt>
+      <wpt lat="38.21466" lon="-122.13775">
+         <name>GRTP-012</name>
+         <cmt>Keep right at the fork, follow signs for I-80 E/Sacramento and merge onto I-80 E</cmt>
+         <desc>Keep right at the fork, follow signs for I-80 E/Sacramento and merge onto I-80 E</desc>
+      </wpt>
+      <wpt lat="38.57473" lon="-121.57372">
+         <name>GRTP-013</name>
+         <cmt>Keep right to stay on I-80 E, follow signs for Reno</cmt>
+         <desc>Keep right to stay on I-80 E, follow signs for Reno</desc>
+      </wpt>
+      <wpt lat="40.72428" lon="-111.90473">
+         <name>GRTP-014</name>
+         <cmt>Keep right to stay on I-80 E, follow signs for Cheyenne/Interstate 80</cmt>
+         <desc>Keep right to stay on I-80 E, follow signs for Cheyenne/Interstate 80</desc>
+      </wpt>
+      <wpt lat="41.59207" lon="-93.78694">
+         <name>GRTP-015</name>
+         <cmt>Take exit 123B toward Interstate 35 S</cmt>
+         <desc>Take exit 123B toward Interstate 35 S</desc>
+      </wpt>
+      <wpt lat="41.59559" lon="-93.7746">
+         <name>GRTP-016</name>
+         <cmt>Follow signs for I-80 E/I-35 N/Chicago/Minneapolis and merge onto I-35 N/I-80 E</cmt>
+         <desc>Follow signs for I-80 E/I-35 N/Chicago/Minneapolis and merge onto I-35 N/I-80 E</desc>
+      </wpt>
+      <wpt lat="41.60356" lon="-90.68341">
+         <name>GRTP-017</name>
+         <cmt>Take exit 290 for Interstate 280/US-6 E toward Rock Island/Moline</cmt>
+         <desc>Take exit 290 for Interstate 280/US-6 E toward Rock Island/Moline</desc>
+      </wpt>
+      <wpt lat="41.59701" lon="-90.67667">
+         <name>GRTP-018</name>
+         <cmt>Merge onto I-280 E/US-6 E</cmt>
+         <desc>Merge onto I-280 E/US-6 E</desc>
+      </wpt>
+      <wpt lat="41.44021" lon="-90.33025">
+         <name>GRTP-019</name>
+         <cmt>Continue onto I-80 E</cmt>
+         <desc>Continue onto I-80 E</desc>
+      </wpt>
+      <wpt lat="41.58465" lon="-87.23476">
+         <name>GRTP-020</name>
+         <cmt>Take exit 16 to merge onto I-80 E/I-90 E</cmt>
+         <desc>Take exit 16 to merge onto I-80 E/I-90 E</desc>
+      </wpt>
+      <wpt lat="41.38675" lon="-82.17851">
+         <name>GRTP-021</name>
+         <cmt>Keep left to continue on I-80 E</cmt>
+         <desc>Keep left to continue on I-80 E</desc>
+      </wpt>
+      <wpt lat="41.11977" lon="-80.84585">
+         <name>GRTP-022</name>
+         <cmt>Continue onto Ohio Turnpike</cmt>
+         <desc>Continue onto Ohio Turnpike</desc>
+      </wpt>
+      <wpt lat="41.11287" lon="-80.84035">
+         <name>GRTP-023</name>
+         <cmt>Continue onto I-76 E</cmt>
+         <desc>Continue onto I-76 E</desc>
+      </wpt>
+      <wpt lat="39.98655" lon="-78.26149">
+         <name>GRTP-024</name>
+         <cmt>Take exit 161 to merge onto I-70 E toward US-30/Breezewood/Baltimore</cmt>
+         <desc>Take exit 161 to merge onto I-70 E toward US-30/Breezewood/Baltimore</desc>
+      </wpt>
+      <wpt lat="39.99944" lon="-78.23885">
+         <name>GRTP-025</name>
+         <cmt>Turn left to stay on I-70 E (signs for Washington D.C./Baltimore)</cmt>
+         <desc>Turn left to stay on I-70 E (signs for Washington D.C./Baltimore)</desc>
+      </wpt>
+      <wpt lat="39.39793" lon="-77.42964">
+         <name>GRTP-026</name>
+         <cmt>Take exit 53 to merge onto I-270 S toward Washington</cmt>
+         <desc>Take exit 53 to merge onto I-270 S toward Washington</desc>
+      </wpt>
+      <wpt lat="39.03512" lon="-77.14426">
+         <name>GRTP-027</name>
+         <cmt>Keep right to continue on I-270 Spur S, follow signs for Interstate 495 S/North Virginia/Washington</cmt>
+         <desc>Keep right to continue on I-270 Spur S, follow signs for Interstate 495 S/North Virginia/Washington</desc>
+      </wpt>
+      <wpt lat="39.00877" lon="-77.15226">
+         <name>GRTP-028</name>
+         <cmt>Merge onto I-495 S</cmt>
+         <desc>Merge onto I-495 S</desc>
+      </wpt>
+      <wpt lat="38.96674" lon="-77.18015">
+         <name>GRTP-029</name>
+         <cmt>Take exit 43-44 for VA-193/George Washington Memorial Parkway/Georgetown Pike toward Great Falls Virginia/Langley/Washington</cmt>
+         <desc>Take exit 43-44 for VA-193/George Washington Memorial Parkway/Georgetown Pike toward Great Falls Virginia/Langley/Washington</desc>
+      </wpt>
+      <wpt lat="38.96291" lon="-77.18554">
+         <name>GRTP-030</name>
+         <cmt>Take exit 43 for Geo Washington Memorial Pkwy toward Washington</cmt>
+         <desc>Take exit 43 for Geo Washington Memorial Pkwy toward Washington</desc>
+      </wpt>
+      <wpt lat="38.96321" lon="-77.18085">
+         <name>GRTP-031</name>
+         <cmt>Merge onto George Washington Memorial Pkwy</cmt>
+         <desc>Merge onto George Washington Memorial Pkwy</desc>
+      </wpt>
+      <wpt lat="38.89522" lon="-77.06682">
+         <name>GRTP-032</name>
+         <cmt>Take the exit onto I-66 E toward US-50 E/Washington</cmt>
+         <desc>Take the exit onto I-66 E toward US-50 E/Washington</desc>
+      </wpt>
+      <wpt lat="38.89281" lon="-77.0546">
+         <name>GRTP-033</name>
+         <cmt>Continue onto US-50 E/Constitution Ave NW</cmt>
+         <desc>Continue onto US-50 E/Constitution Ave NW</desc>
+      </wpt>
+      <wpt lat="38.89209" lon="-77.03654">
+         <name>GRTP-034</name>
+         <cmt>Turn left onto 16th St NW</cmt>
+         <desc>Turn left onto 16th St NW</desc>
+      </wpt>
+      <wpt lat="38.89262" lon="-77.03656">
+         <name>GRTP-035</name>
+         <cmt>Turn left onto Ellipse Rd NW</cmt>
+         <desc>Turn left onto Ellipse Rd NW</desc>
+      </wpt>
+      <wpt lat="38.89518" lon="-77.03636">
+         <name>GMLS-001</name>
+         <cmt>Washington, DC</cmt>
+         <desc>Washington, DC</desc>
+      </wpt>
+</gpx>
+
