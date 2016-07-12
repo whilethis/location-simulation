@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+
 @class BPXLViewController;
 
 @interface BPXLAppDelegate : UIResponder <UIApplicationDelegate>
@@ -15,5 +16,6 @@
 @property (strong, nonatomic) UIWindow *window;
 
 @property (strong, nonatomic) BPXLViewController *viewController;
+
 
 @end
